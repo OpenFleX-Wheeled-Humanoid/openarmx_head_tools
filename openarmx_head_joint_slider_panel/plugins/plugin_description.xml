@@ -1,0 +1,9 @@
+<library path="openarmx_head_joint_slider_panel">
+  <class name="openarmx_head_joint_slider_panel/HeadJointSliderPanel"
+         type="openarmx_head_joint_slider_panel::HeadJointSliderPanel"
+         base_class_type="rviz_common::Panel">
+    <description>
+      OpenArmX head joint slider panel for RViz2 (yaw and pitch control).
+    </description>
+  </class>
+</library>
